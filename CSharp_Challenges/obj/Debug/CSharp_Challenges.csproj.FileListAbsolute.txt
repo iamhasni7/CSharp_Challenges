@@ -1,0 +1,8 @@
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\bin\Debug\CSharp_Challenges.exe.config
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\bin\Debug\CSharp_Challenges.exe
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\bin\Debug\CSharp_Challenges.pdb
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\obj\Debug\CSharp_Challenges.csproj.AssemblyReference.cache
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\obj\Debug\CSharp_Challenges.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\obj\Debug\CSharp_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\obj\Debug\CSharp_Challenges.exe
+C:\Users\hasni\source\repos\CSharp_Challenges\CSharp_Challenges\obj\Debug\CSharp_Challenges.pdb
